@@ -15,7 +15,7 @@ A small object-oriented domain model of a university, written to practise **inhe
 | `ERole` | Role enum (e.g. student, teacher, staff) |
 | `ESemester` | Semester enum |
 
-The point of the exercise is the *relations*: members are associated with course executions through roles, courses aggregate executions, and the two member hierarchies share a common abstract root.
+The point of the model is the *relations*: members are associated with course executions through roles, courses aggregate executions, and the two member hierarchies share a common abstract root.
 
 ## Structure
 
@@ -36,7 +36,7 @@ ESemester.java          semester enum
 javac *.java
 ```
 
-There is no `main` — this is a modelling exercise, not a runnable application. Open the sources to see the class hierarchy.
+There is no `main` — this is a domain model, not a runnable application. Open the sources to see the class hierarchy.
 
 ## Notes
 
