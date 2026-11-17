@@ -40,5 +40,4 @@ There is no `main` — this is a modelling exercise, not a runnable application.
 
 ## Notes
 
-- Written for the *Programação Orientada a Objetos* course at Instituto Superior Técnico.
-- `Emplyee` is spelled as in the original submission; it is kept to preserve the code as handed in.
+- `Emplyee` is kept exactly as written in the original model.
